@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Access-Control-Allow-Origin>*</Access-Control-Allow-Origin>
+<Access-Control-Allow-Methods>GET, POST, PUT, DELETE, HEAD, OPTIONS</Access-Control-Allow-Methods>
+<Access-Control-Allow-Headers>Content-Type</Access-Control-Allow-Headers>
+<menu>
+  <item id="1">
+    <name>Classic Burger</name>
+    <description>Our classic burger is made with a juicy beef patty, lettuce, tomato, onion, and our special sauce.</description>
+    <price>9.99</price>
+  </item>
+  <item id="2">
+    <name>Cheese Burger</name>
+    <description>Our cheese burger is made with a juicy beef patty, lettuce, tomato, onion, and your choice of cheese.</description>
+    <price>10.99</price>
+  </item>
+  <item id="3">
+    <name>Super Burger</name>
+    <description>Our Super burger is made with two juicy beef patty, lettuce, tomato, onion, and our special sauce.</description>
+    <price>11.99</price>
+  </item>
+  <item id="4">
+    <name>Veggie Burger</name>
+    <description>Our veggie burger is made with a grilled vegetable patty, lettuce, tomato, onion, and our special sauce.</description>
+    <price>9.99</price>
+  </item>
+  <item id="5">
+    <name>Chicken Burger</name>
+    <description>Our chicken burger is made with a grilled chicken patty, lettuce, tomato, onion, and our special sauce.</description>
+    <price>10.99</price>
+  </item>
+  <item id="6">
+    <name>Fish Burger</name>
+    <description>Our fish burger is made with a breaded fish patty, lettuce, tomato, onion, and our special sauce.</description>
+    <price>11.99</price>
+  </item>
+  <item id="7">
+    <name>Drwan Burger</name>
+    <description>Drawn Burger allows customers to customize their own burgers using a variety of ingredients and a interactive whiteboard. Create the perfect burger masterpiece!</description>
+    <price>13.99</price>
+  </item>
+  <item id="8">
+    <name>Fries</name>
+    <description>Our delicious fries are made with only the freshest potatoes and fried to perfection.</description>
+    <price>3.99</price>
+  </item>
+  <item id="9">
+    <name>Onion Rings</name>
+    <description>Our onion rings are made with fresh onions and fried to perfection.</description>
+    <price>4.99</price>
+  </item>
+  <item id="10">
+    <name>Mozzarella Sticks</name>
+    <description>Our mozzarella sticks are made with gooey mozzarella cheese and fried to perfection.</description>
+    <price>5.99</price>
+  </item>
+  <item id="11">
+    <name>Soft Drink</name>
+    <description>Our soft drinks are made with the freshest ingredients and are available in a variety of flavors.</description>
+    <price>2.99</price>
+  </item>
+  <item id="12">
+    <name>milkshake</name>
+    <description>our milkshakes are hand-spun with creamy, premium ice cream.</description>
+    <price>4.99</price>
+  </item>
+</menu>
